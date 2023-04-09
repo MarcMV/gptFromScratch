@@ -1,3 +1,4 @@
+# Based on the great paper https://research.google/pubs/pub46201/ and Andrej implementation https://www.youtube.com/watch?v=kCc8FmEb1nY&t=3712s as basis
 
 import torch 
 import torch.nn as nn
